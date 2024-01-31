@@ -1,0 +1,38 @@
+:root {
+background: linear-gradient(90deg, #1481baff, #11b5e4ff)
+}
+
+/* .element-to-style {
+
+color: var(--main-color);
+
+} */
+
+.top-bar {
+    background-color: rgba(57, 53, 50, 0.888);
+}
+
+.nav-links {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    /* text-align: center; */
+    font-size: 1.3rem;
+}
+
+.header-links li {
+    display: inline-block;
+    list-style-type: none;
+}
+
+.header-links a {
+    color: white;
+}
+
+.page-title {
+    color: white;
+}
+
+.about-me {
+    color: white;
+}
